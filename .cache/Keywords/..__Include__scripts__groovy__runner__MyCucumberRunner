@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "EAF4622F6F94E498B95D57748B335503",
+  "keywordClasses": [
+    {
+      "name": "runner.MyCucumberRunner",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

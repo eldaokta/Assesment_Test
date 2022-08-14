@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Alhamdulillah</name>
+   <tag></tag>
+   <elementGuidId>1da1ab8a-bbfa-4c12-8230-441b6311d7d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.one > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrasi Pemberi Dana'])[1]/following::h3[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7c281112-e3d5-4749-b5c2-14b6749deb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alhamdulillah!</value>
+      <webElementGuid>44dd5437-f189-42af-98e1-4c7a09abc1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page register funder position-relative&quot;]/main[@class=&quot;register success&quot;]/div[@class=&quot;container text-center&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;main&quot;]/section[@class=&quot;one&quot;]/h3[1]</value>
+      <webElementGuid>bb257ddd-10be-40d5-8730-52c2d5b59769</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrasi Pemberi Dana'])[1]/following::h3[1]</value>
+      <webElementGuid>38960767-4c1b-45e6-b3fe-021d948a862d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk ke Akun Saya'])[1]/preceding::h3[1]</value>
+      <webElementGuid>eaaa70ee-6129-44c6-90f6-729c313979eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='masuk'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ade0c14f-958f-42a9-bf84-b6dbf51d1361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alhamdulillah!']/parent::*</value>
+      <webElementGuid>72b1325c-8c53-4d85-b12a-3d411d5426a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/h3</value>
+      <webElementGuid>ef53332c-2b3e-477e-9e41-2ea6c65dff77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Alhamdulillah!' or . = 'Alhamdulillah!')]</value>
+      <webElementGuid>e63ded14-0995-40e9-a45e-139dbc7e1a5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kirim Ulang Aktivasi Email</name>
+   <tag></tag>
+   <elementGuidId>6e01bccf-6b5e-42a9-9d05-d35f89cee24e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sendEmailActivation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='sendEmailActivation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4481ad50-b5af-40eb-8d12-399e53781f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:</value>
+      <webElementGuid>64b0509c-da31-4b57-ac9b-104ed07d94f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sendEmailActivation</value>
+      <webElementGuid>57091e4c-ec2a-426b-82b3-8e757beceaa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-full-secondary</value>
+      <webElementGuid>9eec20e3-8b98-4766-91ca-eb3949b9963d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim Ulang Aktivasi Email</value>
+      <webElementGuid>72335f86-95ee-4b2d-942a-afb39969b66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sendEmailActivation&quot;)</value>
+      <webElementGuid>77a88554-09ac-474d-85d1-7e3fde26e951</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='sendEmailActivation']</value>
+      <webElementGuid>db753917-f9f3-424a-911a-d4bf5cfe84ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kirim Ulang Aktivasi Email')]</value>
+      <webElementGuid>fe0e29d5-331b-48d2-a492-82d2bda69a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima Kasih!'])[1]/following::a[1]</value>
+      <webElementGuid>5e39c755-4d6a-45df-9287-39c29ed0649b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrasi Pemberi Dana'])[1]/following::a[1]</value>
+      <webElementGuid>62579d52-ea74-4efb-bceb-2aa8de1db121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='masuk'])[1]/preceding::a[1]</value>
+      <webElementGuid>2a3ff4f9-fc68-4ae9-8397-90d754499de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[2]</value>
+      <webElementGuid>f3e032dc-726e-423d-80aa-c7659c454ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim Ulang Aktivasi Email']/parent::*</value>
+      <webElementGuid>87ef9da4-097f-4e0e-8cc1-7780e08f49fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:')]</value>
+      <webElementGuid>ab0b858f-cbac-4b6b-911b-4bd7b8890ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/a</value>
+      <webElementGuid>73a73cdd-36d6-4b36-b6c9-ae38ad061fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:' and @id = 'sendEmailActivation' and (text() = 'Kirim Ulang Aktivasi Email' or . = 'Kirim Ulang Aktivasi Email')]</value>
+      <webElementGuid>f6184eb0-418f-46eb-8ed5-49af04999c5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

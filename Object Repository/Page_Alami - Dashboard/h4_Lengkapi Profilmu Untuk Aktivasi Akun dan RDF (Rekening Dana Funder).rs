@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)</name>
+   <tag></tag>
+   <elementGuidId>8a8a3f8f-d953-4959-9cef-1d04c9dc434b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalLengkapiProfil']/div/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>403b8107-955e-4320-86ab-608430011940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)</value>
+      <webElementGuid>296221be-dff0-40bb-8bec-50df176cf93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLengkapiProfil&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/h4[1]</value>
+      <webElementGuid>12102733-9dae-4887-b1bb-279974ac2737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalLengkapiProfil']/div/div/div/div/h4</value>
+      <webElementGuid>22183a4e-f3df-497a-970c-30246f3bee25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[15]/following::h4[1]</value>
+      <webElementGuid>6d95ff99-3ffa-4230-a3bd-10e5b8116317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Profil Sekarang'])[1]/preceding::h4[1]</value>
+      <webElementGuid>97d4ead4-a520-456a-baca-c2788aaa36b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::h4[1]</value>
+      <webElementGuid>b791bb98-f6cd-4a99-94ca-106c8ac7008c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)']/parent::*</value>
+      <webElementGuid>b375f575-5d44-4fa5-9807-e751f8b2b094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>66e336c1-5978-480a-9657-407948934632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)' or . = 'Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)')]</value>
+      <webElementGuid>ac18b727-aee1-48b5-ba64-6b6b38c6ef3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

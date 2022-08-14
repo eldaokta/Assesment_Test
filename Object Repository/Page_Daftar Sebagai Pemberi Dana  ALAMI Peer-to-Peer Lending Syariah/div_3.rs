@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3</name>
+   <tag></tag>
+   <elementGuidId>7d8007ab-6797-497b-af4e-9dea552df4e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrasi Pemberi Dana'])[1]/following::div[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b2ffb27-9d01-46e8-96de-310909285669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-step-circle</value>
+      <webElementGuid>14d6dd4e-4250-4b6f-b5f6-2acd5e24ac46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>66d25e82-1dba-4914-818a-1eea23a22b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page register funder position-relative&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row text-center&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;wrapper-step&quot;]/div[@class=&quot;md-stepper-horizontal orange&quot;]/div[@class=&quot;md-step active done&quot;]/div[@class=&quot;md-step-circle&quot;]</value>
+      <webElementGuid>ec7cc504-2214-48c9-a2c5-87725b35d34d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrasi Pemberi Dana'])[1]/following::div[12]</value>
+      <webElementGuid>c5dad3a7-c91b-493d-bea0-7014150c4855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alhamdulillah!'])[1]/preceding::div[3]</value>
+      <webElementGuid>aff0d779-a355-4af4-ab18-4f50d1a68870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk ke Akun Saya'])[1]/preceding::div[3]</value>
+      <webElementGuid>75c13104-dcc6-4955-adf0-4ff06fccaef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>2c53b45c-4317-4184-8080-b6b0ff878c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '3' or . = '3')]</value>
+      <webElementGuid>5be0d6de-fc0d-43da-8004-0bac43269982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

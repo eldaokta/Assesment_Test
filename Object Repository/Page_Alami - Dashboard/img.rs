@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b77f439c-7033-4b7b-8f87-eb6e21376e6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex-grow-1.text-center.logo-icon-header.order-lg-0 > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mobile-navbar']/div/div[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5d859c7f-82aa-44d6-ae63-9d927dea80fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/resources/lenderv2/images/ALAMI BLUE.png</value>
+      <webElementGuid>8c526f72-d640-4c9e-a3df-6c5d0551dba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobile-navbar&quot;)/div[@class=&quot;d-flex flex-row align-items-center&quot;]/div[@class=&quot;flex-grow-1 text-center logo-icon-header order-lg-0&quot;]/a[1]/img[1]</value>
+      <webElementGuid>cc3c0879-4f71-4c42-b93d-d04db3aad172</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mobile-navbar']/div/div[2]/a/img</value>
+      <webElementGuid>675b902d-6a54-4dda-b88b-42eb8786a429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>7508b596-38a0-4ac0-a08e-dadf43438c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/resources/lenderv2/images/ALAMI BLUE.png']</value>
+      <webElementGuid>350860a0-3acb-4866-b326-4bc46a691a1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

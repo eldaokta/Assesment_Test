@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aktifkan RDF dengan melengkapi profilmu untuk dapatkan pengalaman pendanaan yang lebih cepat dan mudah</name>
+   <tag></tag>
+   <elementGuidId>3c5b1752-a899-4b39-9df4-3d37c990c77b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.notif</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalLengkapiProfil']/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7b2a37b-e0d0-4a51-8aa0-06334c9623cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notif</value>
+      <webElementGuid>efb3698c-7089-411d-ba3f-c21f361f82b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aktifkan RDF dengan melengkapi profilmu untuk dapatkan pengalaman pendanaan yang lebih cepat dan mudah.</value>
+      <webElementGuid>b29a232b-ddb8-4497-93be-e5510e6cd1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLengkapiProfil&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[@class=&quot;notif&quot;]</value>
+      <webElementGuid>63bf281c-6518-43d9-88fd-4e648ae3b7f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalLengkapiProfil']/div/div/div/div/div[2]</value>
+      <webElementGuid>429bcee9-1d94-4dc3-bf32-04a88abb43ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)'])[1]/following::div[1]</value>
+      <webElementGuid>0cb9ab4e-071c-4f1b-8925-49f68727a3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Profil Sekarang'])[1]/preceding::div[1]</value>
+      <webElementGuid>f83b85f4-2a55-4b6b-9844-4fbbf851d5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[3]</value>
+      <webElementGuid>7df471ae-bfb9-4435-913c-cfc82bb77e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aktifkan RDF dengan melengkapi profilmu untuk dapatkan pengalaman pendanaan yang lebih cepat dan mudah.']/parent::*</value>
+      <webElementGuid>69beb3c2-351b-4c01-8754-5c368ff5fff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]</value>
+      <webElementGuid>1135a67e-9240-46ef-8d97-7c6b6c48740b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Aktifkan RDF dengan melengkapi profilmu untuk dapatkan pengalaman pendanaan yang lebih cepat dan mudah.' or . = 'Aktifkan RDF dengan melengkapi profilmu untuk dapatkan pengalaman pendanaan yang lebih cepat dan mudah.')]</value>
+      <webElementGuid>c1ccee7b-b19a-48ad-8dc6-9e0129ad8e19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

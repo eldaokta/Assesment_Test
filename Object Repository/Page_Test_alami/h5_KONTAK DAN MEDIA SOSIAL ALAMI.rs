@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_KONTAK DAN MEDIA SOSIAL ALAMI</name>
+   <tag></tag>
+   <elementGuidId>3201a2e9-8f44-40c1-9ea9-47cc3bf0225a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollWrapper']/h5[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>d0594c7d-7e1f-485e-b057-4db040d82e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KONTAK DAN MEDIA SOSIAL ALAMI</value>
+      <webElementGuid>25034aac-73a5-47ff-902f-382463fad006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollWrapper&quot;)/h5[15]</value>
+      <webElementGuid>6141c75b-b2ff-4063-b69f-858d66b5d09f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollWrapper']/h5[15]</value>
+      <webElementGuid>39fa78ff-6c9c-487c-8295-ec0d115a6b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUKUM YANG BERLAKU DAN YURISDIKSI'])[1]/following::h5[1]</value>
+      <webElementGuid>36eba6dc-b4d2-4694-8b11-c49489f2c510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platfom'])[1]/following::h5[2]</value>
+      <webElementGuid>58102636-3663-48e3-ac17-1834a56cbdc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KONTAK DAN MEDIA SOSIAL ALAMI']/parent::*</value>
+      <webElementGuid>dc4b6316-fe4c-4de4-8f80-f8d849edbbe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5[15]</value>
+      <webElementGuid>ac0d9cd4-9966-44aa-82cb-9bcfcd7659e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'KONTAK DAN MEDIA SOSIAL ALAMI' or . = 'KONTAK DAN MEDIA SOSIAL ALAMI')]</value>
+      <webElementGuid>a87a5463-2593-4013-9a45-0177b8dd99fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
